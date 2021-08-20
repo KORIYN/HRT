@@ -35,6 +35,3 @@ python HRT_SUN.py
 
 ``` 
 
-## Citation
-Our paper is submited to NeurIPS 2021. If use our codes, please cite our paper.
-
