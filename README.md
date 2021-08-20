@@ -1,7 +1,7 @@
 # Hybrid Routing Transformer for Zero-Shot Learning
 
 ## Overview
-This repository is the official pytorch implementation of [Hybrid Routing Transformer for Zero-Shot Learning](https://openreview.net/pdf?id=d0tLN-TCcas).  
+This repository is the official pytorch implementation of Hybrid Routing Transformer for Zero-Shot Learning.  
 
 ## Requirements
 
